@@ -3,9 +3,13 @@
 
 # The Dog vs Cat Classification project is a deep learning application that classifies images into two categories: dogs and cats. It typically involves the following steps:
 
- # Dataset Preparation: Use a labeled dataset (e.g., Kaggle's Dogs vs. Cats dataset) containing images of dogs and cats, split into training, validation, and testing sets.
+ # Dataset Preparation:
+ 
+ Use a labeled dataset (e.g., Kaggle's Dogs vs. Cats dataset) containing images of dogs and cats, split into training, validation, and testing sets.
 
-# Preprocessing: Resize images, normalize pixel values, and apply data augmentation techniques (e.g., rotation, flipping, cropping) to enhance generalization.
+# Preprocessing: 
+
+Resize images, normalize pixel values, and apply data augmentation techniques (e.g., rotation, flipping, cropping) to enhance generalization.
 
 ## Model Architecture:
 
